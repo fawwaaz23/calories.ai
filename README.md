@@ -1,2 +1,3 @@
-# calories.ai
-make a calorie ai
+requirements.txt
+fastapi
+uvicorn
